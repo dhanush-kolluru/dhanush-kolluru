@@ -14,10 +14,6 @@ Hi, I'm Dhanush! I'm an aspiring AI engineer with a passion for developing innov
 - **Data Analysis and Visualization**:Pandas,NumPy,Matplotlib,Seaborn
 - **Version Control**:Git,GitHub
 
-## 📝 Projects
-- **Project Name 1**:Brief description of the project and its purpose.
-- **Project Name 2**:Brief description of the project and its purpose.
-
 ## 📫 Get in Touch
 - **Email**:dhanush.kolluru@gmail.com
 - **LinkedIn**:https://www.linkedin.com/in/dhanush-kolluru-76889a2b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
